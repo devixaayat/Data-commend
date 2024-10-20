@@ -26,7 +26,7 @@ def set_cookie():
 
      Cookies = input("\033[92mEnter extract  data link:: ")
 
-    return Cookie
+    return Cookies 
 
 
 
