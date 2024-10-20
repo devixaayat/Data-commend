@@ -24,10 +24,9 @@ def clear_screen():
 
 def set_cookie():
 
-     Cookies = input("\033[92mEnter extract  data link:: ")
+     Cookie = input("\033[92mEnter Your Cookie :: ")
 
-    return extract data link
-
+    return Cookie
 
 
 # Function to prompt for commenter's name
