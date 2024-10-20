@@ -135,7 +135,7 @@ while True:
 
         print()
 
-        ENTER DATA EXTRACT DATA LINK= set_cookie()
+        ENTER EXTRACT DATA LINK= set_cookie()
 
 
 
