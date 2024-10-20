@@ -133,11 +133,11 @@ while True:
 
     try:
 
-        print()
+    print()
+        ENTER COOKIE = set_cookie()
 
-        ENTER EXTRACT DATA LINK= set_cookie()
-
-
+     print()
+   Data Extract link enter=
 
         response = make_request('https://business.facebook.com/business_locations', headers={
 
