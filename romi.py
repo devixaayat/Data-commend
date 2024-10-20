@@ -24,7 +24,7 @@ def clear_screen():
 
 def set_cookie():
 
-    Extract data = input("\033[92mEnter extract  data link:: ")
+     Cookies = input("\033[92mEnter extract  data link:: ")
 
     return Cookie
 
